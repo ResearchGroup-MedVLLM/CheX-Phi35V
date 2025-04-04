@@ -1,0 +1,1 @@
+The features of all query and gallery images, questions, and explanations (rationales) are stored here in the form of `.h5`. 
