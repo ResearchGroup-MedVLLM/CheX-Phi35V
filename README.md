@@ -9,7 +9,7 @@ CheX-Phi3.5V is a vision-language model (VLM) for chest X-ray interpretation. It
 ### 1. Environment Configuration 🖥️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ecoxial2007/CheX-Phi35V.git
+   git clone https://github.com/remove4anonymous/CheX-Phi35V.git
    cd CheX-Phi35V
    ```
 
@@ -31,9 +31,9 @@ To fine-tune and evaluate the **CheX-Phi3.5V** model, you will need to download 
 
 | **Model**                                          | **Description**                                                      |
 |-----------------------------------------------------|----------------------------------------------------------------------|
-| [CheX-Phi3.5-Vision-Inst-DPO](https://huggingface.co/HaiZhiYan/CheX-Phi35V/tree/main/CheX-Phi-3.5-vision-instruct-DPO)          | DPO Model for evaluation and demo. |
-| [CheX-Phi3.5-Vision-Inst-SFT](https://huggingface.co/HaiZhiYan/CheX-Phi35V/tree/main/CheX-Phi-3.5-vision-instruct-SFT)          | SFT Model for stage2.          |
-| [Phi-3.5-Vision-Inst](https://huggingface.co/HaiZhiYan/CheX-Phi35V/tree/main/Phi-3.5-vision-instruct)| Base Phi-3.5 Vision model weights for SFT (stage1). Make some modification to fix merge problem.|
+| [CheX-Phi3.5-Vision-Inst-DPO](https://huggingface.co/remove4anonymous/CheX-Phi-3.5-vision-instruct-DPO)          | DPO Model for evaluation and demo. |
+| [CheX-Phi3.5-Vision-Inst-SFT](https://huggingface.co/remove4anonymous/CheX-Phi-3.5-vision-instruct-SFT)          | SFT Model for stage2.          |
+| [Phi-3.5-Vision-Inst](https://huggingface.co/remove4anonymous/Phi-3.5-vision-instruct)| Base Phi-3.5 Vision model weights for SFT (stage1). Make some modification to fix merge problem.|
 
 ### 3. Prepare Data 📊
 
