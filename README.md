@@ -80,7 +80,15 @@ data/
 If you find this repository useful in your research, please cite the following:
 
 ```bibtex
-
+@misc{liang2025chexpopreferenceoptimizationchest,
+      title={CheXPO: Preference Optimization for Chest X-ray VLMs with Counterfactual Rationale}, 
+      author={Xiao Liang and Jiawei Hu and Di Wang and Zhi Ma and Lin Zhao and Ronghan Li and Bo Wan and Quan Wang},
+      year={2025},
+      eprint={2507.06959},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.06959}, 
+}
 ```
 
 Thank you for your interest in **CheX-Phi3.5V**! Feel free to contribute and make improvements.
