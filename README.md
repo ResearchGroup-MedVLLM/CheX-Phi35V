@@ -1,5 +1,9 @@
 
 # CheX-Phi3.5V 🩻
+## News
+[2025-12-02] 🔥 We are excited to release CheX-Phi4MM, the official implementation of CheXPO-v2. By utilizing GRPO and Knowledge Graph Consistency for process supervision, this work significantly enhances the diagnostic reasoning and accuracy of Chest X-ray VLMs.
+
+🔗 Check it out: https://github.com/ecoxial2007/CheX-Phi4MM
 
 ## Overview
 CheX-Phi3.5V is a vision-language model (VLM) for chest X-ray interpretation. It integrates preference optimization and contrastive rejection strategies for fine-grained medical reasoning. The repository contains scripts for dataset preparation, training, and evaluation based on the MIMIC-CXR dataset.
